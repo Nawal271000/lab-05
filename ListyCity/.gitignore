@@ -1,0 +1,15 @@
+# Built files
+/build
+app/build
+ListyCity/build
+
+# Gradle
+.gradle/
+local.properties
+
+# Sensitive files
+google-services.json
+
+# IDE
+.idea/
+*.iml
